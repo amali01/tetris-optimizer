@@ -7,7 +7,7 @@ This is a Go program that receives only one argument, a path to a text file whic
 Clone the project
 
 ```bash
-git clone https://learn.reboot01.com/git/amali/tetris-optimizer
+  git clone https://learn.reboot01.com/git/amali/tetris-optimizer
 ```
 
 Go to the project directory
@@ -18,22 +18,28 @@ Go to the project directory
 
 **Example how to run the program:**
 
-_make sure you are in project directory_
+_Make sure you are in project directory_
 
 ```bash
-go run main.go test/goodexample02.txt
+  go run main.go test/goodexample02.txt
 
 
-A B B B B . 
-A C C C E E 
-A F F C E E 
-A . F F G G 
-H H H D D G 
-. H D D . G 
+  A B B B B . 
+  A C C C E E 
+  A F F C E E 
+  A . F F G G 
+  H H H D D G 
+  . H D D . G 
 
 
 ```
-- for a faser audit u can use test.sh to cheak all the examples in the test file.
+- For a faster audit, you can use 'test.sh' to cheak all the examples in the test file.
+
+**Resources:**
+ - Solving the Smallest Square of Tetrominoes Medium Written by Beth Locke
+-  https://medium.com/@bethnenniger/fillit-solving-for-the-smallest-square-of-tetrominos-c6316004f909
+
+
 
 #### Creator
 amali
