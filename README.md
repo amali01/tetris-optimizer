@@ -1,5 +1,10 @@
-# Tetris Optimizer
+<h1 align="center">Tetris Optimizer</h1>
 
+<p align="center">
+    <img src="./logo.webp" alt="logo" hight="350px" width="350px" />
+</p>
+
+<h2>About The Project</h2>
 This is a Go program that receives only one argument, a path to a text file which will contain a list of tetrominoes to assemble them in order to create the smallest square possible.
 
 ## Run Locally
@@ -7,7 +12,7 @@ This is a Go program that receives only one argument, a path to a text file whic
 Clone the project
 
 ```bash
-  git clone https://learn.reboot01.com/git/amali/tetris-optimizer
+  git clone https://github.com/amali01/tetris-optimizer
 ```
 
 Go to the project directory
@@ -42,6 +47,6 @@ _Make sure you are in project directory_
 
 
 #### Creator
-amali
+amali01
 
 
